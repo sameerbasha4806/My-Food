@@ -1,0 +1,19 @@
+h3{
+    color: red;
+}
+.box5{
+    background-color: lightcyan;
+    padding: 20px;
+}
+#main4{
+    color: darkorchid;
+}
+#main6{
+    color: darkblue;
+}
+#main5{
+    color: darkgreen;
+}
+li:nth-child(even){
+    color:rgb(142, 3, 142);
+}

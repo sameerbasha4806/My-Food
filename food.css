@@ -1,0 +1,31 @@
+.container{
+    text-align: center;
+      /* width: 600px; */
+     padding: 50px;
+    
+   
+}
+.child-1{
+    display:inline-block;
+    width: 250px;
+    padding: 5px;
+}
+.child-2{
+    display:inline-block;
+    width: 250px;
+    padding: 5px;
+}
+.child-3{
+    display:inline-block;
+    width: 250px;
+    padding: 5px;
+}
+.child-4{
+    display:inline-block;
+    width: 250px;
+    padding: 5px;
+}
+img{
+    width: 100%;
+    
+}
